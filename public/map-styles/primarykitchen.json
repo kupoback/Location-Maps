@@ -1,0 +1,70 @@
+[
+	{
+		"featureType": "landscape",
+		"stylers": [
+			{
+				"color": "#f5f1e9"
+			}
+		]
+	},
+	{
+		"featureType": "poi",
+		"elementType": "geometry",
+		"stylers": [
+			{
+				"color": "#c2efd2"
+			}
+		]
+	},
+	{
+		"featureType": "poi.attraction",
+		"elementType": "geometry",
+		"stylers": [
+			{
+				"color": "#c2efd2"
+			}
+		]
+	},
+	{
+		"featureType": "poi.park",
+		"elementType": "geometry",
+		"stylers": [
+			{
+				"color": "#c2efd2"
+			}
+		]
+	},
+	{
+		"featureType": "poi.sports_complex",
+		"elementType": "geometry",
+		"stylers": [
+			{
+				"color": "#c2efd2"
+			}
+		]
+	},
+	{
+		"featureType": "road",
+		"stylers": [
+			{
+				"color": "#ece6d7"
+			}
+		]
+	},
+	{
+		"featureType": "transit",
+		"stylers": [
+			{
+				"color": "#ece6d7"
+			}
+		]
+	},
+	{
+		"featureType": "water",
+		"stylers": [
+			{
+				"color": "#b3d4f8"
+			}
+		]
+	}
+]
